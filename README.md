@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+See the [prior_projects](https://github.com/JenineJ/prior_projects) repo for examples of code from my prior projects.
+
 <!--
 **JenineJ/JenineJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
